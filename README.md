@@ -12,11 +12,18 @@
 
 ### 🚀 About Me
 
-[cite_start]I am a passionate computer systems engineer with a Bachelor's degree from the University of Engineering & Technology, Peshawar[cite: 9]. [cite_start]My expertise spans programming, network security, artificial intelligence, and database management[cite: 10, 11, 12, 13]. [cite_start]I am particularly adept at applying AI models to real-world problems, as demonstrated by my thesis on road pavement indexing using AI[cite: 12, 19]. [cite_start]I thrive in collaborative environments, utilizing agile methods to manage projects and deliver impactful results[cite: 14].
+<div style="padding: 20px; border: 1px solid #e0e0e0; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: center; margin: 20px auto; max-width: 800px;">
+  <p style="font-size: 1.1em; line-height: 1.6; color: #333;">
+    I am a passionate computer systems engineer with a Bachelor's degree from the University of Engineering & Technology, Peshawar. My expertise spans programming, network security, artificial intelligence, and database management. I am particularly adept at applying AI models to real-world problems, as demonstrated by my thesis on road pavement indexing using AI. I thrive in collaborative environments, utilizing agile methods to manage projects and deliver impactful results.
+  </p>
+  <p style="font-size: 1em; color: #666; margin-top: 15px;">
+    My journey is driven by a commitment to continuous learning and a desire to build solutions that make a difference.
+  </p>
+</div>
 
--   [cite_start]**Driving innovation** in AI and Machine Learning applications[cite: 12].
--   [cite_start]**Leading project development** with strong analytical and research skills[cite: 14, 15].
--   [cite_start]**Committed to open-source principles** through building automation tools and participating in tech forums[cite: 33, 49, 50].
+-   **Driving innovation** in AI and Machine Learning applications.
+-   **Leading project development** with strong analytical and research skills.
+-   **Committed to open-source principles** through building automation tools and participating in tech forums.
 
 ---
 
@@ -44,24 +51,27 @@ A glance at the technologies and methodologies I champion to build scalable and 
 
 Here are some key projects that showcase my practical application of skills:
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <h4>🛣️ Road Pavement Indexing Using AI</h4>
-        [cite_start]<p>Developed a machine learning model using satellite images to classify pavement conditions[cite: 23]. [cite_start]Utilized Python, OpenCV, and CNN for image processing and prediction[cite: 24]. [cite_start]Achieved accurate classification and presented findings in the final year demo[cite: 26].</p>
-      </td>
-      <td width="33%">
-        <h4>🛡️ AI-based Intrusion Detection System (IDS)</h4>
-        [cite_start]<p>Designed a simulated secure network with an integrated AI intrusion detection module[cite: 29]. [cite_start]Used Python and Scikit-learn to analyze traffic and detect anomalies[cite: 30]. [cite_start]Tested against common attack patterns and evaluated detection performance[cite: 31].</p>
-      </td>
-      <td width="33%">
-        <h4>⚙️ Python Automation Tools</h4>
-        [cite_start]<p>Built Python scripts for automating repetitive system tasks and log monitoring[cite: 34]. [cite_start]Practiced exception handling, scheduling, and file operations[cite: 34].</p>
-      </td>
-    </tr>
-  </table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="width: 30%; min-width: 280px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
+    <img src="https://placehold.co/300x200/4CAF50/ffffff?text=AI+Pavement" alt="Road Pavement Indexing" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 10px;">
+    <h4 style="margin-top: 0; color: #333;">🛣️ Road Pavement Indexing Using AI</h4>
+    <p style="font-size: 0.9em; color: #555;">Developed a machine learning model using satellite images to classify pavement conditions. Utilized Python, OpenCV, and CNN for image processing and prediction.</p>
+  </div>
+  <div style="width: 30%; min-width: 280px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
+    <img src="https://placehold.co/300x200/FF5722/ffffff?text=IDS+System" alt="AI-based Intrusion Detection System" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 10px;">
+    <h4 style="margin-top: 0; color: #333;">🛡️ AI-based Intrusion Detection System (IDS)</h4>
+    <p style="font-size: 0.9em; color: #555;">Designed a simulated secure network with an integrated AI intrusion detection module. Used Python and Scikit-learn to analyze traffic and detect anomalies.</p>
+  </div>
+  <div style="width: 30%; min-width: 280px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
+    <img src="https://placehold.co/300x200/2196F3/ffffff?text=Automation+Tools" alt="Python Automation Tools" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 10px;">
+    <h4 style="margin-top: 0; color: #333;">⚙️ Python Automation Tools</h4>
+    <p style="font-size: 0.9em; color: #555;">Built Python scripts for automating repetitive system tasks and log monitoring. Practiced exception handling, scheduling, and file operations.</p>
+  </div>
 </div>
+
+<p align="center" style="font-size: 0.8em; color: #888; margin-top: 20px;">
+  <em>Note: Direct hover "pop-out" effects are limited in GitHub READMEs. The cards above are styled to be visually appealing and distinct.</em>
+</p>
 
 ---
 
