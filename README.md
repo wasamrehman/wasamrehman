@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center" style="font-size: 2.5em; color: #333; margin-top: -20px; margin-bottom: 20px;">
-  About Me
+ About Me
 </h1>
 
 <p align="center" style="font-size: 1.1em; color: #666; max-width: 750px; margin: 0 auto 40px; line-height: 1.6;">
@@ -12,7 +12,7 @@
 
 ---
 
-###  My Core Focus
+### Core 
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-bottom: 40px;">
 
@@ -41,7 +41,7 @@
 
 ---
 
-### Tools
+### Technologies & Tools
 
 <p align="center" style="margin-bottom: 30px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
@@ -63,17 +63,17 @@
 ### Projects
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <div style="width: 30%; min-width: 280px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
+  <div style="width: 30%; min-width: 280px; padding: 20px; border-radius: 8px; background-color: #f8f8f8; text-align: center; border: 1px solid #eee;">
     <h4 style="margin-top: 0; color: #333;">🛣️ Road Pavement Indexing Using AI</h4>
-    [cite_start]<p style="font-size: 0.9em; color: #555;">Developed a machine learning model using satellite images to classify pavement conditions. Utilized Python, OpenCV, and CNN for image processing and prediction. [cite: 23, 24]</p>
+    <p style="font-size: 0.9em; color: #555;">Developed a machine learning model using satellite imagery for pavement condition classification (Python, OpenCV, CNN).</p>
   </div>
-  <div style="width: 30%; min-width: 280px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
+  <div style="width: 30%; min-width: 280px; padding: 20px; border-radius: 8px; background-color: #f8f8f8; text-align: center; border: 1px solid #eee;">
     <h4 style="margin-top: 0; color: #333;">🛡️ AI-based Intrusion Detection System</h4>
-    <p style="font-size: 0.9em; color: #555;">Designed a simulated secure network with an integrated AI intrusion detection module. [cite_start]Used Python and Scikit-learn to analyze traffic and detect anomalies. [cite: 29, 30]</p>
+    <p style="font-size: 0.9em; color: #555;">Designed an AI intrusion detection module to analyze network traffic and detect anomalies (Python, Scikit-learn).</p>
   </div>
-  <div style="width: 30%; min-width: 280px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
+  <div style="width: 30%; min-width: 280px; padding: 20px; border-radius: 8px; background-color: #f8f8f8; text-align: center; border: 1px solid #eee;">
     <h4 style="margin-top: 0; color: #333;">⚙️ Python Automation Tools</h4>
-    <p style="font-size: 0.9em; color: #555;">Built Python scripts for automating repetitive system tasks and log monitoring. [cite_start]Practiced exception handling, scheduling, and file operations. [cite: 34]</p>
+    <p style="font-size: 0.9em; color: #555;">Built Python scripts for automating repetitive system tasks, including log monitoring and file operations.</p>
   </div>
 </div>
 
