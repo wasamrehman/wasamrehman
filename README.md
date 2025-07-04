@@ -16,7 +16,7 @@
 
 -   [cite_start]**Driving innovation** in AI and Machine Learning applications[cite: 12].
 -   [cite_start]**Leading project development** with strong analytical and research skills[cite: 14, 15].
--   [cite_start]**Committed to open-source principles** through building automation tools and participating in tech forums[cite: 33, 50].
+-   [cite_start]**Committed to open-source principles** through building automation tools and participating in tech forums[cite: 33, 49, 50].
 
 ---
 
@@ -44,17 +44,24 @@ A glance at the technologies and methodologies I champion to build scalable and 
 
 Here are some key projects that showcase my practical application of skills:
 
-* [cite_start]**Road Pavement Indexing Using AI** (Nov 2022 - Jul 2023) [cite: 21, 22]
-    * [cite_start]Developed a machine learning model using satellite images to classify pavement conditions[cite: 23].
-    * [cite_start]Utilized Python, OpenCV, and CNN for image processing and prediction[cite: 24].
-    * [cite_start]Achieved accurate classification and presented findings in the final year demo[cite: 26].
-* [cite_start]**AI-based Intrusion Detection System (IDS)** (Feb 2023 - Apr 2023) [cite: 27, 28]
-    * [cite_start]Designed a simulated secure network with an integrated AI intrusion detection module[cite: 29].
-    * [cite_start]Used Python and Scikit-learn to analyze traffic and detect anomalies[cite: 30].
-    * [cite_start]Tested against common attack patterns and evaluated detection performance[cite: 31].
-* [cite_start]**Python Automation Tools** (May 2023 - Current) [cite: 32, 33]
-    * [cite_start]Built Python scripts for automating repetitive system tasks and log monitoring[cite: 34].
-    * [cite_start]Practiced exception handling, scheduling, and file operations[cite: 34].
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <h4>🛣️ Road Pavement Indexing Using AI</h4>
+        [cite_start]<p>Developed a machine learning model using satellite images to classify pavement conditions[cite: 23]. [cite_start]Utilized Python, OpenCV, and CNN for image processing and prediction[cite: 24]. [cite_start]Achieved accurate classification and presented findings in the final year demo[cite: 26].</p>
+      </td>
+      <td width="33%">
+        <h4>🛡️ AI-based Intrusion Detection System (IDS)</h4>
+        [cite_start]<p>Designed a simulated secure network with an integrated AI intrusion detection module[cite: 29]. [cite_start]Used Python and Scikit-learn to analyze traffic and detect anomalies[cite: 30]. [cite_start]Tested against common attack patterns and evaluated detection performance[cite: 31].</p>
+      </td>
+      <td width="33%">
+        <h4>⚙️ Python Automation Tools</h4>
+        [cite_start]<p>Built Python scripts for automating repetitive system tasks and log monitoring[cite: 34]. [cite_start]Practiced exception handling, scheduling, and file operations[cite: 34].</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
