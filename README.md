@@ -53,12 +53,20 @@ Building a deep learning model to forecast trends using LSTM architecture in Ten
 
 ---
 
-## 🟩 Contributions
+## 🟩 GitHub Contributions & Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wasamrehman&theme=tokyonight" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wasamrehman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wasamrehman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=wasamrehman&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasamrehman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 
 
 ---
