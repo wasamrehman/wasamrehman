@@ -1,76 +1,115 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Hello%20There!&fontSize=40" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Wassam%20Rehman%20Khalid&fontSize=40" alt="Wassam Rehman Khalid - Welcome" />
 </div>
 
-<h1 align="center">👋 Welcome to Wassam Rehman Khalid's GitHub Profile</h1>
+<h1 align="center">👋 Innovating at the Intersection of Systems & Intelligence</h1>
 
-<p align="center">
+<p align="center" style="font-size: 1.1em; color: #555; max-width: 700px; margin: 0 auto 30px;">
   As a dedicated Computer Systems Engineer, I leverage my expertise in AI, Machine Learning, and robust system design to drive innovative solutions. My focus is on developing practical applications that solve complex problems and contribute to technological advancement.
 </p>
 
 ---
 
-### 🚀 About Me
+### 🌟 My Vision & Expertise
 
-<div style="padding: 20px; border: 1px solid #e0e0e0; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: center; margin: 20px auto; max-width: 800px;">
-  <p style="font-size: 1.1em; line-height: 1.6; color: #333;">
-    I am a passionate computer systems engineer with a Bachelor's degree from the University of Engineering & Technology, Peshawar. My expertise spans programming, network security, artificial intelligence, and database management. I am particularly adept at applying AI models to real-world problems, as demonstrated by my thesis on road pavement indexing using AI. I thrive in collaborative environments, utilizing agile methods to manage projects and deliver impactful results.
-  </p>
-  <p style="font-size: 1em; color: #666; margin-top: 15px;">
-    My journey is driven by a commitment to continuous learning and a desire to build solutions that make a difference.
-  </p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 30px;">
+
+  <div style="flex: 1 1 45%; min-width: 300px; padding: 20px; border: 1px solid #e0e0e0; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: left;">
+    <h4 style="margin-top: 0; color: #333; display: flex; align-items: center; gap: 10px;">
+      <img src="https://img.icons8.com/ios-filled/24/0A66C2/brain--v1.png" alt="AI Icon"/> AI & Machine Learning Focus
+    </h4>
+    <p style="font-size: 0.95em; line-height: 1.5; color: #555;">
+      [cite_start]Adept at applying AI models to real-world problems, with practical experience in the field[cite: 12]. [cite_start]My thesis focused on road pavement indexing using AI[cite: 12, 19].
+    </p>
+  </div>
+
+  <div style="flex: 1 1 45%; min-width: 300px; padding: 20px; border: 1px solid #e0e0e0; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: left;">
+    <h4 style="margin-top: 0; color: #333; display: flex; align-items: center; gap: 10px;">
+      <img src="https://img.icons8.com/ios-filled/24/0A66C2/code.png" alt="Code Icon"/> Systems Engineering & Programming
+    </h4>
+    <p style="font-size: 0.95em; line-height: 1.5; color: #555;">
+      [cite_start]Proficient in Python and JavaScript, experienced in algorithm design and debugging[cite: 10]. [cite_start]Strong foundation in network protocols, security practices, and database management[cite: 11, 13].
+    </p>
+  </div>
+
+  <div style="flex: 1 1 45%; min-width: 300px; padding: 20px; border: 1px solid #e0e0e0; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: left;">
+    <h4 style="margin-top: 0; color: #333; display: flex; align-items: center; gap: 10px;">
+      <img src="https://img.icons8.com/ios-filled/24/0A66C2/group-of-people--v1.png" alt="Team Icon"/> Project Leadership & Collaboration
+    </h4>
+    <p style="font-size: 0.95em; line-height: 1.5; color: #555;">
+      [cite_start]Experienced in collaborative projects using agile methods, managing timelines, and presenting technical reports[cite: 14]. [cite_start]A proactive team-player[cite: 39].
+    </p>
+  </div>
+
+  <div style="flex: 1 1 45%; min-width: 300px; padding: 20px; border: 1px solid #e0e0e0; border-radius: 10px; background-color: #f9f9f9; box-shadow: 0 2px 5px rgba(0,0,0,0.05); text-align: left;">
+    <h4 style="margin-top: 0; color: #333; display: flex; align-items: center; gap: 10px;">
+      <img src="https://img.icons8.com/ios-filled/24/0A66C2/search.png" alt="Research Icon"/> Analytical & Research Skills
+    </h4>
+    <p style="font-size: 0.95em; line-height: 1.5; color: #555;">
+      [cite_start]Strengthened critical thinking through lab work, simulations, and research-based documentation[cite: 15]. [cite_start]Continually expanding understanding through tech forums and research[cite: 50, 51].
+    </p>
+  </div>
+
 </div>
-
--   **Driving innovation** in AI and Machine Learning applications.
--   **Leading project development** with strong analytical and research skills.
--   **Committed to open-source principles** through building automation tools and participating in tech forums.
 
 ---
 
-### 🛠️ My Toolkit & Expertise
+### 🛠️ My Toolkit
 
-A glance at the technologies and methodologies I champion to build scalable and robust solutions:
+Here's a snapshot of the key technologies and frameworks I work with:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning Badge" />
-  <img src="https://img.shields.io/badge/Data%20Analysis-4A90E2?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis Badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning Badge" />
   <br>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV Badge" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge" />
+  <br>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL Badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-4A90E2?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Analysis Badge" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
 </p>
 
 ---
 
-### 💡 Projects
+### 💡 Projects & Initiatives
 
 Here are some key projects that showcase my practical application of skills:
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="width: 30%; min-width: 280px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <div style="width: 30%; min-width: 280px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
     <img src="https://placehold.co/300x200/4CAF50/ffffff?text=AI+Pavement" alt="Road Pavement Indexing" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 10px;">
     <h4 style="margin-top: 0; color: #333;">🛣️ Road Pavement Indexing Using AI</h4>
-    <p style="font-size: 0.9em; color: #555;">Developed a machine learning model using satellite images to classify pavement conditions. Utilized Python, OpenCV, and CNN for image processing and prediction.</p>
+    <p style="font-size: 0.9em; color: #555;">
+      [cite_start]Developed a machine learning model using satellite images to classify pavement conditions[cite: 23]. [cite_start]Utilized Python, OpenCV, and CNN for image processing and prediction[cite: 24].
+    </p>
   </div>
-  <div style="width: 30%; min-width: 280px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
+  <div style="width: 30%; min-width: 280px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
     <img src="https://placehold.co/300x200/FF5722/ffffff?text=IDS+System" alt="AI-based Intrusion Detection System" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 10px;">
     <h4 style="margin-top: 0; color: #333;">🛡️ AI-based Intrusion Detection System (IDS)</h4>
-    <p style="font-size: 0.9em; color: #555;">Designed a simulated secure network with an integrated AI intrusion detection module. Used Python and Scikit-learn to analyze traffic and detect anomalies.</p>
+    <p style="font-size: 0.9em; color: #555;">
+      [cite_start]Designed a simulated secure network with an integrated AI intrusion detection module[cite: 29]. [cite_start]Used Python and Scikit-learn to analyze traffic and detect anomalies[cite: 30].
+    </p>
   </div>
-  <div style="width: 30%; min-width: 280px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center; transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;">
+  <div style="width: 30%; min-width: 280px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); text-align: center;">
     <img src="https://placehold.co/300x200/2196F3/ffffff?text=Automation+Tools" alt="Python Automation Tools" style="width: 100%; height: auto; border-radius: 4px; margin-bottom: 10px;">
     <h4 style="margin-top: 0; color: #333;">⚙️ Python Automation Tools</h4>
-    <p style="font-size: 0.9em; color: #555;">Built Python scripts for automating repetitive system tasks and log monitoring. Practiced exception handling, scheduling, and file operations.</p>
+    <p style="font-size: 0.9em; color: #555;">
+      [cite_start]Built Python scripts for automating repetitive system tasks and log monitoring[cite: 34]. [cite_start]Practiced exception handling, scheduling, and file operations[cite: 34].
+    </p>
   </div>
 </div>
 
 <p align="center" style="font-size: 0.8em; color: #888; margin-top: 20px;">
-  <em>Note: Direct hover "pop-out" effects are limited in GitHub READMEs. The cards above are styled to be visually appealing and distinct.</em>
+  <em>Note: The visual layout above is achieved using inline HTML/CSS. Advanced interactive features like dynamic hover "pop-out" effects are not fully supported in GitHub READMEs.</em>
 </p>
 
 ---
