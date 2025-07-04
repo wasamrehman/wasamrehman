@@ -77,12 +77,11 @@ Created tools for log parsing, system monitoring, and repetitive task automation
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Minimal GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasamrehman&show_icons=true&theme=tokyonight" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasamrehman&layout=compact&theme=tokyonight" width="47%"/>
-</p>
+- 👤 Active since 2023  
+- 🧱 Most used: Python, JS, C++  
+- 📁 Public projects: Check the pinned section above
 
 ---
 
@@ -96,3 +95,4 @@ Pakistan (Remote-friendly 🌍)
 ---
 
 > *"It’s not about having all the answers — it’s about becoming better every line of code."*
+
