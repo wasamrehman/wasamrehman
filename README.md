@@ -1,84 +1,73 @@
-<h1 align="center">👋 Hi, I'm Wasam Rehman Khalid</h1>
-<p align="center">
-  🎓 Computer Systems Engineer | 🤖 Machine Learning Enthusiast | 🧠 AI Explorer
-</p>
+# Hi there, I'm Wassam Rehman 👋
+
+🎓 **Computer Systems Engineer** | 🧠 AI & Cybersecurity Enthusiast | 🐍 Python Developer  
+📍 Mansehra, Pakistan | ✉️ wassamrehman@gmail.com
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I'm a passionate Machine Learning and AI enthusiast with a background in Computer Systems Engineering. I love building intelligent systems that solve real-world problems — from road condition indexing to chatbots and time series forecasting. I'm currently open to freelance projects, internships, or junior roles in AI/ML and data science.
+I'm a passionate full-stack engineer and AI enthusiast, freshly graduated from the **University of Engineering & Technology Peshawar**. I specialize in Python and JavaScript, and I love building smart solutions that make systems more efficient and secure.
 
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🔬 Final year thesis: **Road Pavement Indexing Using AI**
+- 🛡️ Built an AI-powered Intrusion Detection System
+- 🤖 Creating automation tools in Python to make life easier
+- 💬 I enjoy tech forums, mentoring, and sharing knowledge!
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Skills
 
-🔸 [🛣️ Road Condition Indexing with ML](https://github.com/yourusername/road-condition-ml-indexing)  
-Final Year Project using Random Forest & SVM to classify road surface conditions with over 87% accuracy.
-
-🔸 💬 NLP Chatbot for University FAQs *(Coming Soon)*  
-A simple rule-based chatbot to automate frequently asked academic queries using Python & NLTK.
-
-🔸 📈 Time Series Forecasting with LSTM *(In Progress)*  
-Building a deep learning model to forecast trends using LSTM architecture in TensorFlow.
+- **Languages:** Python, JavaScript, C++, SQL  
+- **AI/ML Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn  
+- **Tools & Libraries:** OpenCV, NumPy, Pandas, Matplotlib  
+- **Technologies:** Git, HTML, CSS, Wireshark, Metasploit  
+- **Soft Skills:** Time Management, Teamwork, Research & Communication
 
 ---
 
-## 📜 Certifications
+## 📚 Education
 
-- 🧠 [IBM Machine Learning with Python – Coursera](#)
-- 🤖 [DeepLearning.AI Neural Networks & Deep Learning](#)
-- 📊 [Data Analysis with Python – freeCodeCamp](#)
+**Bachelor of Computer Systems Engineering**  
+University of Engineering & Technology, Peshawar  
+_2019 – 2023 | Final CGPA: 2.75/4.0_
 
 ---
 
-## 📊 GitHub Stats
+## 🔬 Projects
 
-![Wasam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasamrehman&show_icons=true&theme=tokyonight)  
+### 🛣️ Road Pavement Indexing Using AI
+- Developed a CNN model to classify road conditions using satellite images
+- Used Python, OpenCV, and TensorFlow
+
+### 🔐 AI-based Intrusion Detection System
+- Built a secure network simulator integrated with anomaly detection
+- Technologies used: Python, Scikit-learn
+
+### ⚙️ Python Automation Tools
+- Automated log monitoring and repetitive system tasks
+- Practiced error handling, scheduling, and file operations
+
+---
+
+## 📈 GitHub Stats
+
+![Wassam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wasamrehman&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wasamrehman&layout=compact&theme=tokyonight)
 
 ---
 
-## 🟩 GitHub Contributions & Activity
+## 📫 How to Reach Me
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wasamrehman&theme=tokyonight" />
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wasamrehman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wasamrehman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-
-
+- 📧 Email: [wassamrehman@gmail.com](mailto:wassamrehman@gmail.com)  
+- 💬 Tech Mentor: Volunteering experience helping others grow in tech
 
 ---
 
-## 📫 Let's Connect
+## ⚡ Fun Facts
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🌐 [Upwork Profile](#)  
-- 📧 Email: your@email.com  
+- 💻 I build small AI models and tools in my free time
+- 🏸 Love playing badminton and hitting the gym
+- 📚 Always exploring new ideas in AI, cybersecurity, and automation
 
 ---
-
-<p align="center">
-  ⭐️ Thank you for visiting my GitHub!
-</p>
