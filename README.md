@@ -57,6 +57,9 @@ Building a deep learning model to forecast trends using LSTM architecture in Ten
 
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=wasamrehman&theme=tokyonight" />
 
+![GitHub Streak](https://streak-stats.demolab.com?user=wasamrehman&theme=tokyonight)
+
+
 ---
 
 ## 📫 Let's Connect
